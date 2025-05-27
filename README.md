@@ -8,6 +8,9 @@ This repository contains the full implementation and audio material for an inter
 
 Participants listen to short sound clips and adjust a shape via a slider—from smooth to rough to sharp—based on how they perceive each sound.
 
+<p align="center">
+  <img src="shape_morphing_selection.png" alt="UI screenshot of the experiment" width="600">
+</p>
 ---
 
 ## 📌 Overview
