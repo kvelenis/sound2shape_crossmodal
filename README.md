@@ -2,6 +2,10 @@
 
 This repository contains the full implementation and audio material for an interactive web-based experiment exploring how people intuitively associate **sound textures** with **visual shape morphologies**.  
 
+<p align="center">
+  <img src="./assets/ui_screenshot.png" alt="UI screenshot of the experiment" width="600">
+</p>
+
 Participants listen to short sound clips and adjust a shape via a slider—from smooth to rough to sharp—based on how they perceive each sound.
 
 ---
